@@ -10,28 +10,22 @@
 
 ## 실기 준비 자료 (업데이트: 2024.2.11)
 
-### 기본 개념
+### 작업형 1유형
 
-- **타임델타 활용**: [Python 자료], [R 자료]
+- **판다스 100제 **: [Python 자료](https://example.com/python-timedelta)
 
-### 데이터 분석 기법
+### 작업형 2유형
 
-- **로지스틱 회귀 분석**: [Python 자료], [R 자료]
-- **그룹 간 평균 차이 분석 (t통계량, f통계량)**: [Python 자료], [R 자료]
-- **데이터 마이닝 지표 (지지도, 신뢰도, 향상도)**: [Python 자료], [R 자료]
-- **포아송 분포 & 독립성 검정**: [Python 자료], [R 자료]
+- **분류**: [Python 자료](https://example.com/python-timedelta)
+- **회귀**: [Python 자료](https://example.com/python-timedelta)
 
-### 통계적 분석
+### 작업형 3유형
 
-- **베르누이 및 이항 분포**: [Python 자료], [R 자료]
-- **통계적 추정 (점추정, 구간추정)**: [Python 자료], [R 자료]
-- **적합도 테스트**: [Python 자료], [R 자료]
+- **대응표본 T검정**: [Python 자료](https://example.com/python-timedelta)
+- **독립표본 T검정**: [Python 자료](https://example.com/python-timedelta)
+- **단일표본 T검정**: [Python 자료](https://example.com/python-timedelta)
+- **ANOVA 분석**: [Python 자료](https://example.com/python-timedelta)
 
-## 실기 예제 문제
-
-- **대응표본 T검정 & 독립표본 T검정**: [Python 자료], [R 자료] 📹 예제 해설
-- **단일표본 T검정 & ANOVA 분석**: [Python 자료], [R 자료]
-- **정규성 검사 Shapiro-Wilks & 회귀 분석 및 상관 계수**: [Python 자료], [R 자료]
 
 ## 피드백 요청
 
