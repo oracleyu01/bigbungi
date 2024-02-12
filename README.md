@@ -10,26 +10,21 @@
 
 ## 실기 준비 자료 (업데이트: 2024.2.11)
 
+### 빅분기 실기에 맞는 몸 만들기(기본기 다짐)
+
+- **판다스 100제 **: [판다스100제]([https://example.com/python-timedelta](https://www.kaggle.com/code/user245364/1-100)
+- **관련 영상 ** : [판다스100제 풀이 영상] (https://www.youtube.com/watch?v=lNuNXwXEbkk)
+
 ### 작업형 1유형
 
-- **판다스 100제 **: [Python 자료](https://example.com/python-timedelta)
-
-### 작업형 2유형
-
-- **분류**: [Python 자료](https://example.com/python-timedelta)
-- **회귀**: [Python 자료](https://example.com/python-timedelta)
-
-### 작업형 3유형
-
-- **대응표본 T검정**: [Python 자료](https://example.com/python-timedelta)
-- **독립표본 T검정**: [Python 자료](https://example.com/python-timedelta)
-- **단일표본 T검정**: [Python 자료](https://example.com/python-timedelta)
-- **ANOVA 분석**: [Python 자료](https://example.com/python-timedelta)
+- **2회 시험**: [2회_작업1형](https://example.com/python-timedelta](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=162597110)
 
 
-## 피드백 요청
+## 피드백 요청 및 질문 답변
 
 이 자료가 여러분의 학습에 도움이 되었다면, 후기를 남겨주세요. 여러분의 피드백은 우리 자료의 품질을 향상시키는 데 큰 도움이 됩니다.
+
+**질문답변 및 후기 게시판** [다음 카페] (https://cafe.daum.net/oracleoracle/Smgg)
 
 ## 공유 및 기여
 
