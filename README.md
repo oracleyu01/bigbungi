@@ -8,8 +8,8 @@
 
 ## 시작하는 법
 
-본 자료를 통해 시험준비를 시작하고 싶다면, [코딩 대한민국 YouTube 채널](https://www.youtube.com/channel/UCOCLI8zLz5feB9MSm7lCLNw) 을 추천드립니다.  
-&nbsp;
+본 자료를 통해 시험준비를 시작하고 싶다면, [코딩 대한민국 YouTube 채널](https://www.youtube.com/channel/UCOCLI8zLz5feB9MSm7lCLNw) 을 추천드립니다.    
+
 여러분의 발전을 위한 최고의 시작점이 될 것입니다.
 
 &nbsp;
