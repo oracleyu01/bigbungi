@@ -14,7 +14,7 @@
 
 ## 실기 준비 자료 (업데이트: 2024.2.11)
 
-### 빅분기 실기에 맞는 몸 만들기(기본기 다짐)
+### 빅분기 실기에 맞는 몸 만들기(기본기 다지기)
 
 - **판다스 100제**: [판다스100제 문제 모음](https://www.kaggle.com/code/user245364/1-100)
 
@@ -24,7 +24,11 @@
 
 ### 작업형 1유형
 
-- **2회 시험**: [2회 작업1형 시험 문제](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=162597110)
+- **2회 시험**: [2회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=162597110)
+
+- **3회 시험**: [3회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam?scriptVersionId=162668889)
+
+** ※시험문제에는 저작권이 있습니다. 그래서 시험문제가 아니 시험 출제 유형으로 올립니다. **
 
 &nbsp;
 
