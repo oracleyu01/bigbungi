@@ -20,19 +20,22 @@
 
 - **판다스 100제**: [판다스100제 문제 모음](https://www.kaggle.com/code/user245364/1-100?scriptVersionId=163242737)
 
-- **관련 영상**: [판다스100제 풀이 영상](https://www.youtube.com/watch?v=lNuNXwXEbkk)
+- **관련 영상**: [판다스100제 풀이 영상](https://www.youtube.com/watch?v=oSQ2Ol7cyL8&list=PLRJOE4yoSM0TX8dkNRvUGHoCpo54C5Bmo&index=1)
 
 &nbsp;
 
 ### 작업형 1유형
 
-- **2회 시험**: [2회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=162597110)
+- **2회 시험**: [2회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=163242970)
 
 - **3회 시험**: [3회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam?scriptVersionId=162668889)
 
 - **※ 시험문제는 저작권 보호 대상입니다. 따라서 본 내용은 구체적인 문제가 아닌 출제 유형입니다**
 
 &nbsp;
+
+## 시험 유형은 매일 하나씩 계속 업데이트가 계속 됩니다.
+
 
 ## 피드백 요청 및 질문 답변
 
