@@ -18,7 +18,7 @@
 
 ### 빅분기 실기에 맞는 몸 만들기(기본기 다지기)
 
-- **판다스 100제**: [판다스100제 문제 모음](https://www.kaggle.com/code/user245364/1-100?scriptVersionId=163242737)
+- **판다스 100제**: [판다스100제 문제 모음](https://www.kaggle.com/code/user245364/1-100)
 
 - **관련 영상(3시간 버젼)**: 🖥️ [판다스100제 풀이 영상](https://www.youtube.com/watch?v=J9XkwoCamuI&t=511s)
 
