@@ -26,7 +26,7 @@
 
 ### 작업형 1유형
 
-- **2회 시험**: [2회 작업1형 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=163242970),   [문제 풀이 영상](https://www.youtube.com/watch?v=LjPFuHKXxN0&t=126s)
+- **2회 시험**: [2회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=163242970), 🖥️ [풀이 영상](https://www.youtube.com/watch?v=LjPFuHKXxN0&t=126s)
  
 - **3회 시험**: [3회 작업1형 시험유형](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam)
 
