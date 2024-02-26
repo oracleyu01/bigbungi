@@ -20,7 +20,7 @@
 
 - **판다스 100제**: [판다스100제 문제 모음](https://www.kaggle.com/code/user245364/1-100?scriptVersionId=163242737)
 
-- **관련 영상**: [판다스100제 풀이 영상](https://www.youtube.com/watch?v=oSQ2Ol7cyL8&list=PLRJOE4yoSM0TX8dkNRvUGHoCpo54C5Bmo&index=1)
+- **관련 영상**: 🖥️ [판다스100제 풀이 영상](https://www.youtube.com/watch?v=oSQ2Ol7cyL8&list=PLRJOE4yoSM0TX8dkNRvUGHoCpo54C5Bmo&index=1)
 
 &nbsp;
 
