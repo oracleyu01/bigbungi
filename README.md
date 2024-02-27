@@ -36,6 +36,8 @@
  
 - **3회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam), 🖥️ [풀이 영상](https://www.youtube.com/watch?v=p2eNWXmjrdc&t=23s)
 
+- **4회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-4-1-exam)
+
 - **※ 시험문제는 저작권 보호 대상입니다. 따라서 본 내용은 구체적인 문제가 아닌 출제 유형입니다**
 
 - **시험 문제는 계속 update 될 예정입니다.**
