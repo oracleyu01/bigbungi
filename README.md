@@ -45,8 +45,8 @@
 &nbsp;
 
 
-## 보다 풍성한 데이터 분석을 위해서는 SQL과 SQL튜닝 기술을 알고 계셔야합니다. 
-## 다음의 인강을 추천합니다.
+### 보다 풍성한 데이터 분석을 위해서는 SQL과 SQL튜닝 기술을 알고 계셔야합니다. 
+### 다음의 인강을 추천합니다.
 
 **SQL 강의**:  🖥️ [영상](https://www.e-itwill.com/course/course_view.jsp?id=121&ch=course&cid=&s_style=gallery&scid=&s_field=&s_keyword=)
 
