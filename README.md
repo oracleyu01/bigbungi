@@ -53,6 +53,8 @@
 
 **SQL튜닝 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=69&cid=155)
 
+**PL/SQL 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=447&cid=28)  
+
 &nbsp;
 
 
