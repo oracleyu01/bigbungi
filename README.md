@@ -49,9 +49,9 @@
 
 **SQL 강의(국비지원)**:  🖥️ [영상](https://www.e-itwill.com/course/course_view.jsp?id=121&ch=course&cid=&s_style=gallery&scid=&s_field=&s_keyword=)  
 
-**SQL 강의(일반)**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=22&cid=123&ch=course)  
+**SQL 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=22&cid=123&ch=course)  
 
-**SQL튜닝 강의(일반)**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=69&cid=155)
+**SQL튜닝 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=69&cid=155)
 
 &nbsp;
 
