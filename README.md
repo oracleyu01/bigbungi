@@ -34,7 +34,7 @@
  
 - **2회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=163242970), 🖥️ [풀이 영상](https://www.youtube.com/watch?v=LjPFuHKXxN0&t=126s)
  
-- **3회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam), 🖥️ [풀이 영상](https://www.youtube.com/watch?v=p2eNWXmjrdc&t=23s)
+- **3회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam), 🖥️ [풀이 영상](https://youtu.be/p2eNWXmjrdc?si=i4Ov91m2EHO5sCzI)
 
 - **4회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-4-1-exam)
 
