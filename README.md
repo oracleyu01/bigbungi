@@ -23,7 +23,7 @@
 
 - **판다스 100제**: [판다스100제 문제 모음](https://www.kaggle.com/code/user245364/1-100)
 
-- **관련 영상(3시간 버젼)**: 🖥️ [판다스100제 풀이 영상](https://www.youtube.com/watch?v=J9XkwoCamuI&t=511s)
+- **관련 영상(3시간 버젼)**: 🖥️ [판다스100제 풀이 영상](https://youtu.be/J9XkwoCamuI?si=oEUE9-fLIxPYqzOQ)
 
 
 &nbsp;
@@ -32,7 +32,7 @@
 
 - **1회 시험**: 코로나로 인해 시험이 없었습니다.
  
-- **2회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=163242970), 🖥️ [풀이 영상](https://www.youtube.com/watch?v=LjPFuHKXxN0&t=126s)
+- **2회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-2-1-exam?scriptVersionId=163242970), 🖥️ [풀이 영상](https://youtu.be/LjPFuHKXxN0?si=XaydgaaO53hOTF12)
  
 - **3회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam), 🖥️ [풀이 영상](https://youtu.be/p2eNWXmjrdc?si=i4Ov91m2EHO5sCzI)
 
