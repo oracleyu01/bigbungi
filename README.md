@@ -38,6 +38,8 @@
 
 - **4회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-4-1-exam)
 
+- **시험장 가기전에 반드시 암기해야할 코드2줄**: 🖥️ [영상](https://youtu.be/p2eNWXmjrdc?si=i4Ov91m2EHO5sCzI)
+
 - **※ 시험문제는 저작권 보호 대상입니다. 따라서 본 내용은 구체적인 문제가 아닌 출제 유형입니다**
 
 - **시험 문제는 계속 update 될 예정입니다.**
