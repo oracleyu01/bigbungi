@@ -49,7 +49,7 @@
 - **시험 합격의 여부를 결정하는 작업형2번 (분류)**: 🖥️ [영상](https://youtu.be/fQf_oOkV_SY?si=zPY29uh5D0mr9iwo)
 
 
-
+&nbsp;
 
 
 
