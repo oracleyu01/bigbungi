@@ -38,7 +38,7 @@
 
 - **4회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-4-1-exam)
 
-- **시험장 가기전에 반드시 암기해야할 코드2줄**: 🖥️ [영상](https://youtu.be/43--QfYfNBA?si=_PzVo9tlJFAAxwkb)
+- **시험장 가기전에 반드시 암기해야할 코드2줄**: 🖥️ [풀이영상](https://youtu.be/43--QfYfNBA?si=_PzVo9tlJFAAxwkb)
 
 - **시험문제는 저작권 보호 대상입니다. 따라서 본 내용은 구체적인 문제가 아닌 출제 유형입니다**
 
@@ -48,7 +48,7 @@
 
 ### 작업형 2번
 
-- **시험 합격의 여부를 결정하는 작업형2번 (분류)**: 🖥️ [영상](https://youtu.be/fQf_oOkV_SY?si=zPY29uh5D0mr9iwo)
+- **시험 합격의 여부를 결정하는 작업형2번 (분류)**: 🖥️ [풀이영상](https://youtu.be/fQf_oOkV_SY?si=zPY29uh5D0mr9iwo)
 
 
 &nbsp;
