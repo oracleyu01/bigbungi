@@ -36,7 +36,7 @@
  
 - **3회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-3-1-exam), 🖥️ [풀이 영상](https://youtu.be/p2eNWXmjrdc?si=i4Ov91m2EHO5sCzI)
 
-- **4회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-4-1-exam)
+- **4회 시험**: [작업1번 시험유형 코드](https://www.kaggle.com/code/user245364/bigbungi-4-1-exam), 🖥️ [풀이 영상](https://youtu.be/ufHJ3pAz38I)
 
 - **시험장 가기전에 반드시 암기해야할 코드2줄**: 🖥️ [풀이영상](https://youtu.be/43--QfYfNBA?si=_PzVo9tlJFAAxwkb)
 
