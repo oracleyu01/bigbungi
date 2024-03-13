@@ -1,0 +1,124 @@
+
+▣ 예제49. backup set 과 image copy 의 차이점
+
+ RMAN으로 백업을 받을 때 백업 유형 2가지 ?
+
+   1. 백업셋(backupset) :    파일을 백업받을 때 압축을 해서 백업을 받기 때문에
+                                   저장 공간이 절약됩니다. 
+
+                                   사용하고 있는 블럭들만 백업을 합니다. 
+
+                                   오로지 RMAN으로만 복구 할 수 있습니다.
+
+   2. 이미지 copy(image copy) :  사람이 cp 명령어로 백업하는것을 rman 이 대신하는것
+                                          입니다. 
+
+                                           사용하지 않음 블럭들도 다 백업을 하고 그냥 데이터 파일
+                                          을 통채로 백업합니다.  원본과 똑같은 저장공간이 필요
+                                          합니다.
+
+                                          image copy 은 rman 으로도 복구 할 수 있고
+                                          rman 을 이용하지 않고도 복구를 할 수 있습니다.
+
+■ 실습:
+#순서
+#1. 영문 이니셜 db가 잘 올라왔는지 확인합니다.
+#2. catalog db 를 이용하지 않고 rman 으로 접속합니다.
+#3. data file  전체를 image copy 본으로 백업을 합니다. 
+#4. 어느곳에 백업이 되었는지 확인합니다.
+#5. data file 을 하나 손상 시킵니다.
+#6. shutdown abort
+#7. startup
+#8. rman으로 접속합니다.
+#9. 손상된 파일을 복원합니다.
+#10. 복원한 파일을 복구 합니다.
+
+#구현
+#1. 영문 이니셜 db가 잘 올라왔는지 확인합니다.
+
+#2. catalog db 를 이용하지 않고 rman 으로 접속합니다.
+
+$ rman  target  sys/oracle_1234  nocatalog
+
+#3. data file  전체를 image copy 본으로 백업을 합니다. 
+
+RMAN>  backup  as  copy  database; 
+
+설명:  백업셋으로 백업받는것보다 백업 시간이 더 걸립니다. 
+         왜냐하면 HWM 아래쪽에 DATA 가 없는 블럭들도 포함해서
+         datafile을 통채로 백업을 받기 때문입니다.
+
+#4. 어느곳에 백업이 되었는지 확인합니다.
+
+RMAN> list  copy;
+
+설명:  이미지 카피본으로 백업받은 백업 리스트를 보여줍니다.
+
+#5. data file 을 하나 손상 시킵니다.
+
+SQL> @datafile
+
+$ rm /u01/app/oracle/oradata/yys/ts07b.dbf
+
+#6. shutdown abort
+#7. startup
+
+SQL>  select  * from  v$recover_file;
+
+#8. rman으로 접속합니다.
+
+$ rman  target   sys/oracle_1234   nocatalog
+
+#9. 손상된 파일을 복원합니다.
+
+RMAN> restore  datafile  12;
+
+설명:  복원할 때 rman은 여러개의 백업 파일중에서 최근에 백업 받은 그 파일을
+         복원합니다. 
+
+#10. 복원한 파일을 복구 합니다.
+
+RMAN> recover  datafile  12; 
+
+#11. alter  database open; 
+
+■ 실습2.  image copy 본으로 백업받은 파일은 rman 을 이용하지 않고서도
+             복원, 복구할 때 사용할 수 있는지 실습
+
+#1.  RMAN에서 list  copy 를 해서 rm 으로 날릴 원본 파일에 대한 백업본이
+      있는지 확인합니다.
+
+RMAN> list  copy  of  tablespace  ts07;
+
+/u01/app/oracle/flash_recovery_area/YYS/datafile/o1_mf_ts07_lz1ysdp9_.dbf
+
+SQL> @datafile
+
+/u01/app/oracle/oradata/yys/ts07b.dbf
+
+#2.  shutdown abort
+
+#3.  os 에서  ts07b.dbf 를 삭제합니다. 
+
+$ rm /u01/app/oracle/oradata/yys/ts07b.dbf
+
+#4.  startup
+#5.  rman 을 이용하지 않고 사용자 관리 복원을 합니다.
+
+$ cp /u01/app/oracle/flash_recovery_area/YYS/datafile/o1_mf_ts07_lz1ysdp9_.dbf /u01/app/oracle/oradata/yys/ts07b.dbf
+
+#6. rman 을 이용하지 않고 사용자 관리 복구를 합니다.
+
+SQL> recover  datafile  '/u01/app/oracle/oradata/yys/ts07b.dbf';
+
+#7.alter database open; 으로 올립니다. 
+
+
+문제1. os 에서 system01.dbf 를 삭제를 하고 rman을 이용하지 않고 
+         rman 으로 백업받은 이미지 카피본으로 복원, 복구하시오 !
+
+RMAN> list  copy  of  datafile  1;
+
+SQL> @datafile
+
+SQL> select file_id, file_name  from  dba_data_files;
