@@ -48,7 +48,7 @@
 
 ### 작업형 3번
 
-- **가설검정 작업형 기출 유형 6개**:  [구글 코렙](https://colab.research.google.com/drive/1M3EXZssXdEw3xOTvRmFAz_pnZsmfVCGQ?usp=sharing)
+- **가설검정 작업형 기출 유형 6개**: ✨ [구글 코렙](https://colab.research.google.com/drive/1M3EXZssXdEw3xOTvRmFAz_pnZsmfVCGQ?usp=sharing)
 
 &nbsp;
 
