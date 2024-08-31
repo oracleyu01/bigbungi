@@ -50,6 +50,9 @@
 
 - **시험 합격의 여부를 결정하는 작업형2번 (분류)**: 🖥️ [풀이영상](https://youtu.be/fQf_oOkV_SY?si=zPY29uh5D0mr9iwo)
 
+### 작업형 3번
+
+- **가설검정 작업형 기출 유형 6개**:  [구글 코렙](https://colab.research.google.com/drive/1M3EXZssXdEw3xOTvRmFAz_pnZsmfVCGQ?usp=sharing)
 
 &nbsp;
 
