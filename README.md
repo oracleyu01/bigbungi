@@ -59,7 +59,10 @@
 
 # **빅데이터 분석 기사 실기 시험 100% 합격 ! 기출 문제의 패턴이 보인다 !**
 
-[![bigbungi](bigbungi.png)](https://inf.run/ZRXQe)
+<a href="https://inf.run/ZRXQe">
+    <img src="bigbungi.png" alt="bigbungi" style="width:300px;">
+</a>
+
 
 
 &nbsp;
