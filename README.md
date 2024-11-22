@@ -54,16 +54,12 @@
 
 
 
-### 보다 풍성한 데이터 분석을 위해서 SQL과 SQL튜닝 강의를 소개합니다.
+### 인프런에 빅데이터 분석 기사 실기시험에 전체 기출 문제풀이 강의를 소개합니다.
 
 
-- **SQL 강의(국비지원)**:  🖥️ [영상](https://www.e-itwill.com/course/course_view.jsp?id=121&ch=course&cid=&s_style=gallery&scid=&s_field=&s_keyword=)  
+- **빅데이터 분석 기사 실기 시험 100% 합격 ! 기출 문제의 패턴이 보인다 !**:  🖥️ [영상](https://inf.run/ZRXQe)  
 
-- **SQL 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=22&cid=123&ch=course)  
 
-- **SQL튜닝 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=69&cid=155)
-
-- **SQL자동화 강의**:  🖥️ [영상](https://easyupclass.e-itwill.com/course/course_view.jsp?id=447&cid=28)  
 
 &nbsp;
 
