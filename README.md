@@ -59,7 +59,7 @@
 
 ### **빅데이터 분석 기사 실기 시험 100% 합격 ! 기출 문제의 패턴이 보인다 !**
 
-<a href="https://inf.run/ZRXQe">
+<a href="https://www.inflearn.com/course/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B8%B0%EC%B6%9C%ED%8C%A8%ED%84%B4">
     <img src="bigbungi.png" alt="bigbungi" style="width:300px;">
 </a>
 
